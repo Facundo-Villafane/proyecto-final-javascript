@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 620,
+        "id": 1,
+        "title": "Porta Esponja ",
+        "thumbnailUrl": "https://gojira3d.000webhostapp.com/images/spongebob.jpeg"
+    },
+    {
+        "precio": 570,
+        "id": 2,
+        "title": "Maceta Unicornio",
+        "thumbnailUrl": "https://gojira3d.000webhostapp.com/images/photo_unicornio.jpeg"
+    },
+    {
+        "precio": 1000,
+        "id": 3,
+        "title": "Caja Mario Bros",
+        "thumbnailUrl": "https://gojira3d.000webhostapp.com/images/photo_mariobox.jpeg"
+    },
+    {
+        "precio": 640,
+        "id": 4,
+        "title": "Maceta Piña",
+        "thumbnailUrl": "https://gojira3d.000webhostapp.com/images/photo_pineapple.jpeg"
+    },
+    {
+        "precio": 860,
+        "id": 5,
+        "title": "Modelo Avion",
+        "thumbnailUrl": "https://gojira3d.000webhostapp.com/images/photo_plane.jpeg"
+    },
+    {
+        "precio": 1000,
+        "id": 6,
+        "title": "Caja Pandora",
+        "thumbnailUrl": "https://gojira3d.000webhostapp.com/images/pandorasbox.jpeg"
+    }
+]
